@@ -1,14 +1,5 @@
 #EXTM3U
-#PLAYLIST:Minha Playlist
-
-#EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Raul%20Seixas.jpg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Raul%20Seixas.jpg" group-title="Raul Seixas",Raul Seixas - Era do Rock
-https://archive.org/details/raul-seixas-a-era-do-rock-200956947
-
-#EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Legi%C3%A3o%2001.jpg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Legi%C3%A3o%2001.jpg" group-title="Legião Urbana",Legião Urbana - CD 01
-https://archive.org/details/legiao-urbana-cd-01
-
+#PLAYLIST:Marcelo Falcão
 #EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/MarceloFalc%C3%A3o.jpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/MarceloFalc%C3%A3o.jpg" group-title="Marcelo Falcão",Marcelo Falcão - Sequência
 https://www.dropbox.com/scl/fi/y6s19qk65asql7km7t0ch/MARCELO-FALC-O_-Sequ-ncia-_195113457.mp3?rlkey=uf518y64hrftzwo6qb11mttmv&dl=1
@@ -48,3 +39,11 @@ https://www.dropbox.com/scl/fi/3al4bv6hdn9vgq0uh1g80/Alceu-Valen-a-_093444815.mp
 #EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/CharlieBrownJr.jpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/CharlieBrownJr.jpg" group-title="Charlie Brown Jr.",Charlie Brown Jr.
 https://www.dropbox.com/scl/fi/68k17a7yvinrtg392dops/Charlie-Brown-Jr_170946481.mp3?rlkey=d5ax6mu3ryjnc3a8nqntx0ijm&st=pkp3lxaj&dl=1
+
+#EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Raul%20Seixas.jpg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Raul%20Seixas.jpg" group-title="Raul Seixas",Raul Seixas - Sequência Era Do Rock
+https://archive.org/download/raul-seixas-a-era-do-rock-200956947/Raul%20Seixas%20a%20era%20do%20rock_200956947.mp3
+
+#EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Legi%C3%A3o%2001.jpg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Legi%C3%A3o%2001.jpg" group-title="Legião Urbana",Legião Urbana - 01
+https://archive.org/download/legiao-urbana-cd-01/Legi%C3%A3o%20Urbana%20CD_01.mp3
