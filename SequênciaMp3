@@ -1,5 +1,14 @@
 #EXTM3U
-#PLAYLIST:Marcelo Falcão
+#PLAYLIST:Minha Playlist
+
+#EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Raul%20Seixas.jpg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Raul%20Seixas.jpg" group-title="Raul Seixas",Raul Seixas - Era do Rock
+https://archive.org/details/raul-seixas-a-era-do-rock-200956947
+
+#EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Legi%C3%A3o%2001.jpg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Legi%C3%A3o%2001.jpg" group-title="Legião Urbana",Legião Urbana - CD 01
+https://archive.org/details/legiao-urbana-cd-01
+
 #EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/MarceloFalc%C3%A3o.jpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/MarceloFalc%C3%A3o.jpg" group-title="Marcelo Falcão",Marcelo Falcão - Sequência
 https://www.dropbox.com/scl/fi/y6s19qk65asql7km7t0ch/MARCELO-FALC-O_-Sequ-ncia-_195113457.mp3?rlkey=uf518y64hrftzwo6qb11mttmv&dl=1
