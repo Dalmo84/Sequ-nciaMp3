@@ -1,3 +1,4 @@
+
 #EXTM3U
 #PLAYLIST:Marcelo Falcão
 #EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/MarceloFalc%C3%A3o.jpg
@@ -47,3 +48,8 @@ https://archive.org/download/raul-seixas-a-era-do-rock-200956947/Raul%20Seixas%2
 #EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Legi%C3%A3o%2001.jpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Legi%C3%A3o%2001.jpg" group-title="Legião Urbana",Legião Urbana - 01
 https://archive.org/download/legiao-urbana-cd-01/Legi%C3%A3o%20Urbana%20CD_01.mp3
+
+#EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Chico%20Science.jpg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Chico%20Science.jpg" group-title="Chico Science",Chico Science - Da Lama ao Caos
+https://ia601800.us.archive.org/3/items/chico-science-da-lama-ao-caos-205836227/Chico%20Science_%20Da%20lama%20ao%20caos%20_205836227.mp3
+  
