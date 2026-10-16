@@ -1,44 +1,36 @@
 #EXTM3U
 #PLAYLIST:Minha Playlist
 
-#EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Raul%20Seixas.jpg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Raul%20Seixas.jpg" group-title="Raul Seixas",Raul Seixas - Era do Rock
-https://archive.org/details/raul-seixas-a-era-do-rock-200956947
-
-#EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Legi%C3%A3o%2001.jpg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Legi%C3%A3o%2001.jpg" group-title="Legião Urbana",Legião Urbana - CD 01
-https://archive.org/details/legiao-urbana-cd-01
-
 #EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/MarceloFalc%C3%A3o.jpg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/MarceloFalc%C3%A3o.jpg" group-title="Marcelo Falcão",Marcelo Falcão - Sequência
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/MarceloFalc%C3%A3o.jpg" group-title="Marcelo Falcão",Marcelo Falcão
 https://www.dropbox.com/scl/fi/y6s19qk65asql7km7t0ch/MARCELO-FALC-O_-Sequ-ncia-_195113457.mp3?rlkey=uf518y64hrftzwo6qb11mttmv&dl=1
 
 #EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/BeeGeens.jpeg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/BeeGeens.jpeg" group-title="Bee Gees",Bee Gees - Sequência
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/BeeGeens.jpeg" group-title="Bee Gees",Bee Gees
 https://www.dropbox.com/scl/fi/cq0v7sgmk1twy6mmy2pxb/Bee-Gees_sequ-ncia_221352384.mp3?rlkey=dl69mdnbcd5dsmf57r2ja338t&st=6nozlya0&dl=1
 
 #EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/C%C3%A1ssiaEller.png
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/C%C3%A1ssiaEller.png" group-title="Cássia Eller",Cássia Eller - Melhores
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/C%C3%A1ssiaEller.png" group-title="Cássia Eller",Cássia Eller
 https://www.dropbox.com/scl/fi/3rzf18o4vkafced2v1uyk/Cassia-Eller_Melhores_233023364.mp3?rlkey=hggrveh3u244godqov67od38r&st=8srp1skt&dl=1
 
 #EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/1790890870512.png
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/1790890870512.png" group-title="Eletrônica",Eletrônica - Sequência Vol. 01
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/1790890870512.png" group-title="Eletrônica",Eletrônica
 https://www.dropbox.com/scl/fi/em063gswypbx889bklwj6/Eletr-nica-_Sequ-nciaVol01_100635740.mp3?rlkey=tfgm97xa2tkj3mxsztpp0gzyp&st=rcrlzaxg&dl=1
 
 #EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/MPB.jpg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/MPB.jpg" group-title="MPB",MPB - Vol. 01
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/MPB.jpg" group-title="MPB",MPB
 https://www.dropbox.com/scl/fi/3kvkfvwu0vtlzgye5447p/MPB_VOL01_101747588.mp3?rlkey=n81fx4dztiz1941e1nddzmo37&st=jd5trr73&dl=1
 
 #EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/PopRockNacional.png
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/PopRockNacional.png" group-title="Pop Rock Nacional",Pop Rock Nacional - Vol. 01
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/PopRockNacional.png" group-title="Pop Rock Nacional",Pop Rock Nacional
 https://archive.org/download/pop-rock-nacional-vol-01-142252760/Pop_Rock_NacionalVol01_142252760.mp3
 
 #EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Roberto%20Carlos%20MTV.png
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Roberto%20Carlos%20MTV.png" group-title="Roberto Carlos",Roberto Carlos - Acústico
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Roberto%20Carlos%20MTV.png" group-title="Roberto Carlos",Roberto Carlos
 https://www.dropbox.com/scl/fi/zmrkklc368we7cqhlu5u1/Roberto-Carlos_Acustico_224713470.mp3?rlkey=zoywuyc1o24zwice0vr0nuhh0&st=j5igqpfr&dl=1
 
 #EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/edson-gomes-se-apresentara-no-sabado-1-2623693-article.jpg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/edson-gomes-se-apresentara-no-sabado-1-2623693-article.jpg" group-title="Edson Gomes",Edson Gomes - Sequência
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/edson-gomes-se-apresentara-no-sabado-1-2623693-article.jpg" group-title="Edson Gomes",Edson Gomes
 https://www.dropbox.com/scl/fi/r1psg013etr26q44fsvkf/Edson-Gomes_Sequ-ncia_221329816.mp3?rlkey=7in3cmjk36qfpiy8tsmdalm87&st=vl4bgbfm&dl=1
 
 #EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Alceu%20Valen%C3%A7a.png
@@ -46,5 +38,17 @@ https://www.dropbox.com/scl/fi/r1psg013etr26q44fsvkf/Edson-Gomes_Sequ-ncia_22132
 https://www.dropbox.com/scl/fi/3al4bv6hdn9vgq0uh1g80/Alceu-Valen-a-_093444815.mp3?rlkey=kvb1tzfju2yp9n4akns17rv47&st=jvrkxlo4&dl=1
 
 #EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/CharlieBrownJr.jpg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/CharlieBrownJr.jpg" group-title="Charlie Brown Jr.",Charlie Brown Jr.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/CharlieBrownJr.jpg" group-title="Charlie Brown Jr",Charlie Brown Jr
 https://www.dropbox.com/scl/fi/68k17a7yvinrtg392dops/Charlie-Brown-Jr_170946481.mp3?rlkey=d5ax6mu3ryjnc3a8nqntx0ijm&st=pkp3lxaj&dl=1
+
+#EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Raul%20Seixas.jpg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Raul%20Seixas.jpg" group-title="Raul Seixas",A Era do Rock
+https://ia800905.us.archive.org/14/items/raul-seixas-a-era-do-rock-200956947/Raul%20Seixas%20a%20era%20do%20rock_200956947.mp3
+
+#EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Legi%C3%A3o%2001.jpg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Legi%C3%A3o%2001.jpg" group-title="Legião Urbana",Legião Urbana CD 01
+https://archive.org/download/legiao-urbana-cd-01/Legi%C3%A3o%20Urbana%20CD_01.mp3
+
+#EXTIMG:https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Dois.jpg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Dois.jpg" group-title="Legião Urbana",Legião Urbana — Dois
+https://ia601600.us.archive.org/19/items/legiao-urbana-dois_202610/Legi%C3%A3o%20Urbana%20_Dois.mp3
